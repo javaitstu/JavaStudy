@@ -1,4 +1,4 @@
-package com.只出现一次的数字;
+package 只出现一次的数字;
 
 public class Solution {
     public static void main(String[] args) {
