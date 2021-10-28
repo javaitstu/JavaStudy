@@ -1,4 +1,4 @@
-package com.旋转数组;
+package 旋转数组;
 
 public class Solution {
 
