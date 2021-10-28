@@ -1,4 +1,4 @@
-package com.两个数组的交集;
+package 两个数组的交集;
 
 import java.util.ArrayList;
 import java.util.Arrays;
