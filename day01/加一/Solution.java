@@ -1,4 +1,4 @@
-package com.加一;
+package 加一;
 
 
 public class Solution {
